@@ -6,7 +6,8 @@ The goal is to uncover key revenue drivers, customer behavior patterns, and oper
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FQjph8ldfcc/0.jpg)](https://www.youtube.com/watch?v=FQjph8ldfcc)
 
-🎯 Business Problem / Objective
+🎯 Business Problem / Objective:
+
   The trekking company observed fluctuations in revenue and customer engagement across different treks and seasons.We need to understand which treks are truly driving our revenue and bookings, and identify underperforming ones so we can focus our marketing and improve overall business performance. 
 
 This project answers:
