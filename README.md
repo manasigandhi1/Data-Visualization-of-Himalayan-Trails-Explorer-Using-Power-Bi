@@ -12,6 +12,9 @@ The project focuses on understanding customer preferences and optimizing trek of
 
 ---
 
+PLEASE NOTE THAT DUMMY IMAGES OF TREK LEADERS ARE TAKEN IN THIS DASHBOARD PROJECT.
+
+
 ## 🎯 Business Problem / Objective
 
 The trekking company observed fluctuations in revenue and customer engagement across different treks and seasons.
@@ -131,11 +134,7 @@ This dashboard helps stakeholders:
 - Improve operational planning for seasonal demand
 - Support data-driven business decisions
 
----
 
-## 📷 Dashboard Preview
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FQjph8ldfccI/0.jpg)](https://www.youtube.com/watch?v=FQjph8ldfcc)
 
 ---
 
